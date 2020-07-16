@@ -13,6 +13,8 @@ p {
 </style>
 
  در ورژن جدید php می توان با استفاده از قابلیت زیر این کار را انجام داد:
+ <?php
+
  $students = array(
 256 => array('name' => 'Jon', 'grade' => 98.5),
 2 => array('name' => 'Vance', 'grade' => 85.1),
